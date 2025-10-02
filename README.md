@@ -1,2 +1,0 @@
-# accounting-app
-accounting software 
